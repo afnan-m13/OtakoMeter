@@ -131,7 +131,7 @@ OtakuMeter/
 
 ---
 
-## 👥 Team
+## 👥 Authors & Contributors
 
 | Name | ID |
 |------|----|
@@ -141,4 +141,4 @@ OtakuMeter/
 | Afrah Bashaddadah | S22107697 |
 
 **Supervised by:** Dr. Mohammad Nauman  
-**Course:** CS2111
+**Course:** Web Application Development (CS2111)
