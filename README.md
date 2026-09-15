@@ -131,7 +131,7 @@ OtakuMeter/
 
 ---
 
-## 👥 Authors & Contributors
+## 👥 Team
 
 | Name | ID |
 |------|----|
